@@ -1,4 +1,4 @@
-y![BBM Enterprise SDK](https://developer.blackberry.com/files/bbm-enterprise/documents/guide/resources/images/bnr-bbm-enterprise-sdk-title.png)
+![BBM Enterprise SDK](https://developer.blackberry.com/files/bbm-enterprise/documents/guide/resources/images/bnr-bbm-enterprise-sdk-title.png)
 
 # BBM Enterprise SDK
 The BBM Enterprise SDK is an IP-based cloud communications platform that lets 
