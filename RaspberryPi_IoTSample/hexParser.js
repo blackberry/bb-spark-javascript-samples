@@ -22,9 +22,9 @@ var ledR = new Gpio(17, {mpde: Gpio.OUTPUT}),
 	ledB = new Gpio(22, {mpde: Gpio.OUTPUT});
 
 //  PWM write green to the RGB LED upon init.
-ledR.pwmWrite(0);
-ledG.pwmWrite(255);
-ledB.pwmWrite(0);
+ledR.pwmWrite(255);
+ledG.pwmWrite(0);
+ledB.pwmWrite(255);
 
 module.exports = function(hexString) {
 	//  Hex string is of form #FFFFFF. 
